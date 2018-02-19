@@ -5,3 +5,6 @@ function shout(String) {
 function sayHiToGgrandma() {
   return String.toUpperCase();
 }
+function whisper(String) {
+  return String.toLowerCase();
+}
