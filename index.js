@@ -9,6 +9,6 @@ function whisper(String) {
   return String.toLowerCase();
 }
 
-function logShout(String) {
+function logShout() {
   return console.log.spy['HELLO'];
 }
